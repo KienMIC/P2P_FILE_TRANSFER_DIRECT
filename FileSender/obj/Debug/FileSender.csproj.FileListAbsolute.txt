@@ -1,0 +1,8 @@
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\FileSR\FileSender\bin\Debug\FileSender.exe.config
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\FileSR\FileSender\bin\Debug\FileSender.exe
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\FileSR\FileSender\bin\Debug\FileSender.pdb
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\FileSR\FileSender\obj\Debug\FileSender.MainForm.resources
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\FileSR\FileSender\obj\Debug\FileSender.Properties.Resources.resources
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\FileSR\FileSender\obj\Debug\FileSender.csproj.GenerateResource.cache
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\FileSR\FileSender\obj\Debug\FileSender.exe
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\FileSR\FileSender\obj\Debug\FileSender.pdb

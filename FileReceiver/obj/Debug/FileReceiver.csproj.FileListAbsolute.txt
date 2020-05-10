@@ -1,0 +1,9 @@
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\FileSR\FileReceiver\bin\Debug\FileReceiver.exe.config
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\FileSR\FileReceiver\bin\Debug\FileReceiver.exe
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\FileSR\FileReceiver\bin\Debug\FileReceiver.pdb
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\FileSR\FileReceiver\obj\Debug\FileReceiver.csprojAssemblyReference.cache
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\FileSR\FileReceiver\obj\Debug\FileReceiver.MainForm.resources
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\FileSR\FileReceiver\obj\Debug\FileReceiver.Properties.Resources.resources
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\FileSR\FileReceiver\obj\Debug\FileReceiver.csproj.GenerateResource.cache
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\FileSR\FileReceiver\obj\Debug\FileReceiver.exe
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\FileSR\FileReceiver\obj\Debug\FileReceiver.pdb
